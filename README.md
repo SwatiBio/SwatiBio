@@ -2,6 +2,18 @@
 
 **I'm Swati**
 
+```
+whoami
+
+Biotech Postgraduate
+Bioinformatics Researcher
+🧬 Multi-Omics Integration (MOFA2, TCGA)
+🔬 SLiM Motif Discovery (MEME Suite)
+📊 Survival Analysis & Data Science
+🛠 Building Reproducible Bioinformatics Pipelines
+📚 Learning Advanced Statistical Genomics
+```
+
 ---
 
 ## 🧰 Tech Stack
