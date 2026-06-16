@@ -7,6 +7,8 @@ whoami
 
 Biotech Postgraduate
 Bioinformatics Researcher
+
+Interested in
 🧬 Multi-Omics Integration (MOFA2, TCGA)
 🔬 SLiM Motif Discovery (MEME Suite)
 📊 Survival Analysis & Data Science
