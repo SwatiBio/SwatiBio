@@ -4,12 +4,6 @@
 
 ---
 
-## 🎓 Education
-
-<!-- Add your details here -->
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages
@@ -50,6 +44,3 @@ Integrating RNA-seq, DNA methylation, and RPPA proteomics from TCGA-BRCA (n=636)
 
 ---
 
-## 🏆 Achievements
-
-![Achievements](https://github-profile-trophy.vercel.app/?username=swati-bioinfo&theme=flat&column=4)
