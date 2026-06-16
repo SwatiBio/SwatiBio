@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'm Swati** — MSc Biotechnology | Bioinformatics & Computational Biology
+**I'm Swati**
 
 ---
 
