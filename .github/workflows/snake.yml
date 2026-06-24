@@ -18,6 +18,18 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Slow down snake animation (3x)
+        run: |
+          for f in dist/*.svg; do
+            python3 -c "
+import re, sys
+with open('$f') as fh:
+    c = fh.read()
+c = re.sub(r'dur=\"([\d.]+)s\"', lambda m: f'dur=\"{float(m.group(1))*3:.2f}s\"', c)
+with open('$f', 'w') as fh:
+    fh.write(c)
+"
+          done
       - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
