@@ -64,5 +64,7 @@ Integrating RNA-seq, DNA methylation, and RPPA proteomics from TCGA-BRCA (n=636)
 
 ![Swati's GitHub stats](https://github-readme-stats.vercel.app/api?username=SwatiBio&show_icons=true&theme=dark)
 
+![Snake animation](https://raw.githubusercontent.com/SwatiBio/SwatiBio/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
